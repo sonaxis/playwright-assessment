@@ -1,3 +1,4 @@
+Author - Sonaxi Setia
 # Playwright Assessment
 
 Automated test for the Snipe-IT demo using .NET 10 and Playwright (xUnit).
